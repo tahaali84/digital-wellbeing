@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin-bottom: 32px;
+  font-size: 32px;
+}
+
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.card h2 {
+  margin-bottom: 16px;
+  color: #4338ca;
+}
+
+.card p {
+  font-size: 28px;
+  font-weight: 700;
+  color: #111827;
+  text-align: center;
+}
+
+/* Chart title */
+.chart-title {
+  text-align: center;
+  margin-bottom: 16px;
+  font-size: 18px;
+  color: #4338ca;
+}
