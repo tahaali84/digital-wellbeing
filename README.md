@@ -19,7 +19,7 @@ Track screen time, manage productivity, and improve daily digital habits effecti
 - JavaScript
 - CSS / Tailwind CSS
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 src/
