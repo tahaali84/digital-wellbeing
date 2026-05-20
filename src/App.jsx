@@ -1,5 +1,5 @@
 import UsageChart from "./components/UsageChart";
-
+//day and hours
 function App() {
   const data = [
     { day: "Mon", hours: 5 },
