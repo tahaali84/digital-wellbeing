@@ -12,7 +12,7 @@ Track screen time, manage productivity, and improve daily digital habits effecti
 - Responsive and clean UI
 - Fast performance using React + Vite
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - Vite
