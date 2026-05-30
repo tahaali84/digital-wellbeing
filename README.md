@@ -1,7 +1,7 @@
 # Digital Wellbeing 
 
 A modern web application designed to help users maintain a healthy balance between technology usage and personal well-being.  
-Track screen time, manage productivity, and improve daily digital habits effectively
+Track screen time, manage productivity, and improve daily digital habits effectively.
 
 ## Features
 
